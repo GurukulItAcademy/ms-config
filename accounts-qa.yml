@@ -8,7 +8,7 @@ build:
 
 accounts:
   version: ${build.version}
-  msg: This is Accounts Microservice - QA
+  msg: This is Accounts Microservice - QA GITHUB
   contact-details:
     email: QA@email.com
     phone: +91 77777 66666

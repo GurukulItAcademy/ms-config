@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+
+build:
+  version: v4.0
+
+accounts:
+  version: ${build.version}
+  msg: This is Accounts Microservice - QA
+  contact-details:
+    email: QA@email.com
+    phone: +91 77777 66666
+  callSupport:
+    - "1800-111-333"
+    - "1800-222-444"

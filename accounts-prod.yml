@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+build:
+  version: v5.0
+
+accounts:
+  version: ${build.version}
+  msg: This is Accounts Microservice - Production
+  contact-details:
+    email: prod@email.com
+    phone: +91 77777 9999
+  callSupport:
+    - "1800-111-555"
+    - "1800-222-666"

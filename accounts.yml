@@ -9,7 +9,7 @@ accounts:
   version: ${build.version}
   msg: This is Accounts Microservice LOCAL
   contact-details:
-    email: admin@email.com
+    email: 84e34fc3f5566b0b0bd298ddd4c7103e17f95992e23722195db04868d2cca0be
     phone: +91 99999 88888
   callSupport:
     - "1800-000-111"

@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to NextBank accounts related QA APIs saga"
+  message: "Welcome to NextBank accounts related QA APIs V111"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@nextbank.com"
